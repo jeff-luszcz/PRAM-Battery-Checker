@@ -3,5 +3,5 @@ Source code, progject files and resource for the 1999 release of PRAM Battery Ch
 
 Released under the MIT license
 
-None of the email addresses or URL will wor anymore since I let hte polar-orbit.com website lapse
+None of the email addresses or URL will work anymore since I let the polar-orbit.com website lapse
 
