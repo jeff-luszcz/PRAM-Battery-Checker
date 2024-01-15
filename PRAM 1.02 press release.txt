@@ -1,0 +1,18 @@
+﻿FOR IMMEDIATE RELEASE
+
+Polar Orbit Software Announces PRAM Battery Checker for Macintosh
+
+San Francisco, Calif., March 1, 1999 -- Polar Orbit Software announces the release of a new utility for Macintosh computers, PRAM Battery Checker v1.02. This software will warn the computer user if the internal battery that backs up the important Parameter Ram (PRAM) dies. If this battery fails this information can become corrupted causing system disruption or errors. The software checks the system at startup time and will inform the user if the battery has died, otherwise the user will notice nothing out of the ordinary. 
+
+PRAM Battery Checker is perfect for lab or corporate environments where many Macintosh computers are deployed. It will allow you to catch a major source of easily prevented system errors. It is also a useful utility for people who help out less savvy computer users who might not realize that this battery exists.
+
+The program can be downloaded from the Polar Orbit web page at:
+
+<http://www.polar-orbit.com/software.html>
+
+Pricing:
+
+PRAM Battery Checker is free for personal use. A business site license can be purchased for $20 through Kagi.
+
+Jeff Luszcz
+jluszcz@polar-orbit.com
